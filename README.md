@@ -11,6 +11,18 @@ Summary: pylint-celery is a Pylint plugin to aid Pylint in recognising and under
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pylint-celery-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pylint-celery-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/pylint-celery-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pylint-celery-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pylint-celery-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pylint-celery-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pylint-celery/badges/version.svg)](https://anaconda.org/conda-forge/pylint-celery)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pylint-celery/badges/downloads.svg)](https://anaconda.org/conda-forge/pylint-celery)
+
 Installing pylint-celery
 ========================
 
@@ -31,7 +43,6 @@ It is possible to list all of the versions of `pylint-celery` available on your 
 ```
 conda search pylint-celery --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -67,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pylint-celery-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pylint-celery-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/pylint-celery-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pylint-celery-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pylint-celery-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pylint-celery-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pylint-celery/badges/version.svg)](https://anaconda.org/conda-forge/pylint-celery)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pylint-celery/badges/downloads.svg)](https://anaconda.org/conda-forge/pylint-celery)
 
 
 Updating pylint-celery-feedstock
